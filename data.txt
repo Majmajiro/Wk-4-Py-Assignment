@@ -1,0 +1,2 @@
+This is a test file for the error handling script.
+I am testing if the Python script can read this file correctly.
